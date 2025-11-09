@@ -1,0 +1,12 @@
+a=3.45;
+a=int(a);
+print(type(a));
+b=123;
+b=str(b);
+print(type(b));
+c="456";
+c=int(c);
+print(type(c));
+d="subina";
+d=int(d);
+print(type(d));
